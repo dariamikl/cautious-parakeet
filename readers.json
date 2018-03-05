@@ -1,0 +1,62 @@
+[{
+  "id": 1234,
+  "first_name": "John",
+  "last_name": "Smith",
+  "type": "student",
+  "email": "j.smith@innopolis.ru",
+  "about": "I am an example student",
+  "birth_date": "01-01-2018",
+  "phone": 79001234567,
+  "occupation": "BS 1 student",
+  "telegram": "j_smith",
+  "avatar": "https://example.com/imgs/jsmith.png"
+}, {
+  "id": 1234,
+  "first_name": "Johngs",
+  "last_name": "Smitgfsdh",
+  "type": "studgfsdent",
+  "email": "j.smithgfds@innopolis.ru",
+  "about": "I am an exagfdsmple student",
+  "birth_date": "01-01-20gfds18",
+  "phone": 79001234567,
+  "occupation": "BS 1 stugfdsdent",
+  "telegram": "j_smigfdsth",
+  "avatar": "https://exampgfdsle.com/imgs/jsmith.png"
+},{
+  "id": 1234,
+  "first_name": "Jfgdsohn",
+  "last_name": "Smith",
+  "type": "studentgfds",
+  "email": "j.smithfgds@innopolis.ru",
+  "about": "I am an example dfgsstudent",
+  "birth_date": "01-01-20gfsd18",
+  "phone": 79001234567,
+  "occupation": "BS 1 stgfdsudent",
+  "telegram": "j_smith",
+  "avatar": "https://example.gfdscom/imgs/jsmith.png"
+},{
+  "id": 1234,
+  "first_name": "John",
+  "last_name": "Smigdfsth",
+  "type": "student",
+  "email": "j.smith@innopolis.ru",
+  "about": "I am an exadfgsmple student",
+  "birth_date": "01-01-2018",
+  "phone": 79001234567,
+  "occupation": "BS 1 stfgdsudent",
+  "telegram": "j_smgdfsith",
+  "avatar": "https://examplgdfse.com/imgs/jsmith.png"
+},{
+  "id": 1234,
+  "first_name": "Jdgfsohn",
+  "last_name": "Smsgfdith",
+  "type": "studegsfdnt",
+  "email": "j.smith@ingfsdnopolis.ru",
+  "about": "I am an exagfdsmple student",
+  "birth_date": "01-01-2gdfs018",
+  "phone": 79001234567,
+  "occupation": "BS 1 stugfsddent",
+  "telegram": "j_fgsdsmith",
+  "avatar": "https://examdfgsple.com/imgs/jsmith.png"
+}
+  ]
